@@ -1,0 +1,36 @@
+h2{
+  font-family: Arial;
+  vertical-align: middle;
+}
+
+h3{
+  font-family: Arial;
+}
+
+h5{
+  font-family: Arial;
+  color: blue;
+  font-size: 10px;
+}
+
+h6{
+  font-family: Arial;
+  font-size: 10px;
+}
+
+button{
+  padding: 6px 70px;
+}
+
+article{
+  float: left;
+  padding: 50px;
+}
+
+.triangle-right{
+  width: 500;
+	height: inherit;
+	border-top: 25px solid transparent;
+	border-left: 50px solid transparent;
+	border-bottom: 25px solid transparent;
+}
